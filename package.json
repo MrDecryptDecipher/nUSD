@@ -1,0 +1,19 @@
+{
+  "name": "nusd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/detect-provider": "^2.0.0",
+    "bootstrap": "^5.0.1",
+    "web3": "^1.5.3"
+  }
+}
